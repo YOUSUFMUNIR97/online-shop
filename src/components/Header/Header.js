@@ -9,13 +9,7 @@ const Header = () => {
     <div>
       <Navbar expand="lg" style={{ backgroundColor: "#fff" }}>
         <Navbar.Brand href="/">
-          <img
-            src="https://i.ibb.co/qsXmy2v/logo2.png"
-            width="120"
-            alt=""
-            className="img-fluid"
-            id="logo"
-          />
+          <h4>Online Shopping</h4>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
