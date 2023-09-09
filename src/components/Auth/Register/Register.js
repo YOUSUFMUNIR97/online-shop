@@ -23,7 +23,7 @@ const Register = () => {
             </div>
             <button onClick={createAccount} class="form-button">Submit</button>
        </form>
-       <Link to="/login">Already have an account</Link>
+       <Link to="/login" style={{color:"white"}}>Already have an account</Link>
        </div>
     </div>
   );
